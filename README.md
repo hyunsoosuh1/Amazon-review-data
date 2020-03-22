@@ -15,5 +15,3 @@ Lastly, a short potential follow-up analysis is suggested to further experiment 
 
 # Reference
 The data is extracted from the Amazon review data by Jianmo Ni (2018), available at: http://deepyeti.ucsd.edu/jianmo/amazon/index.html
-
-The intermediate and cleaned dataset can be accessed through: https://www.dropbox.com/sh/dm5d1x0swm0b3rs/AAB1E1AkdFcq_9JS80_IS4BNa?dl=0
